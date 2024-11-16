@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Auvaire
 - 👀 I’m interested in Mathematical Physics
-- 🌱 I’m currently learning Linear Algebra, Fortran and Topology
+- 🌱 I’m currently learning Fortran
   
 
 
